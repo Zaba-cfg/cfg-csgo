@@ -1,8 +1,0 @@
-// Opciones de lanzamiento
-
--language zaba -refresh 75 -w 1280 -h 960 -high +exec autoexec.cfg -novid -tickrate 128 -console -nojoy
-
--autoexec.cfg -freq 75 -novid +sdr_spew_level 3 +cl_show_team_equipment 1 -tickrate 128 +cl_interp 1 +cl_interp_ratio 1 -allow_third_party_software +mat_queue_mode 2 +cl_threaded_bone_setup 1 -nothreadedsockets -nojoy -console -w 1920 -h 1080 -language zaba
-
-
-By Zaba
