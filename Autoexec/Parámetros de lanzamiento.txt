@@ -1,0 +1,2 @@
+// -high -freq 75 -novid -console -w 1280 -h 960 -language zaba
+// -allow_third_party_software
