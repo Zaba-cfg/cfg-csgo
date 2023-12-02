@@ -1,2 +1,2 @@
-// -high -freq 75 -novid -console -w 1280 -h 960 -language zaba
+// -nojoy -high -freq 75 -novid -console -language zaballoon -w 1280 -h 960 -fullscreen
 // -allow_third_party_software
