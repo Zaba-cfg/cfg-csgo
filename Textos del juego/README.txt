@@ -4,7 +4,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive/cs
 
 // Colocar en opciones de lanzamiento:
 
--language zaballoon
+-language zaba
 
 
 
