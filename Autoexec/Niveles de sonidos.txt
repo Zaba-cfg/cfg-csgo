@@ -1,8 +1,0 @@
-"playvol buttons/blip 1" (blip1 - blip2)
-"playvol buttons/lever 1" (lever1 - lever8)
-"playvol buttons/button 1" (button1 - button24)
-"playvol buttons/combine_button 1" (combine_button1 - combine_button7)
-
-Estos son los sonidos que hay en el juego para probarlos y elegir los que más te gusten
-
-By Zaba
