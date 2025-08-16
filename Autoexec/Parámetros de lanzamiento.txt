@@ -1,3 +1,4 @@
 // -nojoy -high -freq 75 -novid -console -w 1280 -h 960 -fullscreen
 // -allow_third_party_software
 // -mainthreadpriority 2
+// -noborder -windowed
