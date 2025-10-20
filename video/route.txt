@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\userdata\#ID\730\local\cfg
+
+
+My route:
+C:\Program Files (x86)\Steam\userdata\296661452\730\local\cfg
